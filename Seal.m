@@ -7,7 +7,7 @@
 //
 
 #import "Seal.h"
-
+// I changed something
 @implementation Seal
 
 @end
